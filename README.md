@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subashanan Nair</h1>
 <h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia </h3>
 
-- 🔭 I’m currently working on [Movie Genre Classification using machine learning](https://github.com/SubaashNair/Movie-Genre-Classification-using-ML)
+- 🔭 I’m currently working on Django Project
 
 - 🌱 I’m currently learning **Swift**
 
