@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaashnair&label=Profile%20views&color=0e75b6&style=flat" alt="subaashnair" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subaashnair" alt="subaashnair" /></a> </p>
-
 - 🔭 I’m currently working on **Django Project**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📝 I regularly write articles on [https://medium.com/@subashanannair](https://medium.com/@subashanannair)
-
 - 💬 Ask me about **Machine Learning and NLP**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subaashnair&show_icons=true&locale=en" alt="subaashnair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subaashnair&" alt="subaashnair" /></p>
+
 
