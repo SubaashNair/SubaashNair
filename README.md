@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subashanan Nair</h1>
-<h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia, Malaysia</h3>
+<h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaashnair&label=Profile%20views&color=0e75b6&style=flat" alt="subaashnair" /> </p>
 
