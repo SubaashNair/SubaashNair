@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pypi Project**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **how to multi task like a pro**
 
 - 💬 Ask me about **Machine Learning and NLP**
 
