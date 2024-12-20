@@ -22,8 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subaashnair&show_icons=true&locale=en&layout=compact" alt="subaashnair" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subaashnair&show_icons=true&locale=en" alt="subaashnair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subaashnair&" alt="subaashnair" /></p>
 
 
