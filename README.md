@@ -3,24 +3,143 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaashnair&label=Profile%20views&color=0e75b6&style=flat" alt="subaashnair" /> </p>
 
-- 🔭 I’m currently working on **Pypi Project**
+## 🔭 About Me
 
-- 🌱 I’m currently learning **how to multi task like a pro**
+- 🔭 I'm currently working on **PyPI Packages for Data Science**
+- 🌱 I'm currently learning **how to multi task like a pro**
+- 💬 Ask me about **Machine Learning, NLP, and Data Science**
+- 📊 Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
 
-- 💬 Ask me about **Machine Learning and NLP**
+## 📦 My PyPI Packages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@subaashnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@subaashnair" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subashanan-nair-52b282129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subashanan-nair-52b282129/" height="30" width="40" /></a>
-<a href="https://medium.com/@subaashnair12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subaashnair12" height="30" width="40" /></a>
-<a href="https://discord.gg/270165707193450506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="270165707193450506" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://pypi.org/project/outlier-cleaner/">
+        <img src="https://img.shields.io/pypi/v/outlier-cleaner.svg" alt="PyPI version" />
+        <br />
+        <b>outlier-cleaner</b>
+      </a>
+      <br />
+      A Python package for detecting and removing outliers in data using various statistical methods
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/optimrl/">
+        <img src="https://img.shields.io/pypi/v/optimrl.svg" alt="PyPI version" />
+        <br />
+        <b>optimrl</b>
+      </a>
+      <br />
+      Group Relative Policy Optimization for Efficient RL Training
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pypi.org/project/stats-confidence-intervals/">
+        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
+        <br />
+        <b>stats-confidence-intervals</b>
+      </a>
+      <br />
+      Statistical confidence intervals calculation package
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/smartpredict/">
+        <img src="https://img.shields.io/pypi/v/smartpredict.svg" alt="PyPI version" />
+        <br />
+        <b>smartpredict</b>
+      </a>
+      <br />
+      Intelligent prediction and model management package
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://pypi.org/project/stopwordz/">
+        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
+        <br />
+        <b>stopwordz</b>
+      </a>
+      <br />
+      Comprehensive multi-language stopwords collection for NLP
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🏆 Kaggle Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subaashnair&show_icons=true&locale=en&layout=compact" alt="subaashnair" /></p>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
+
+<!-- Add your Kaggle stats here after setting up GitHub Actions -->
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashanan-nair-52b282129/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/270165707193450506)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/noir1112)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/noir1112/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAD00?logo=huggingface&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-F46800?logo=gradio&logoColor=white)
+
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=subaashnair&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="subaashnair most used languages" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=subaashnair&show_icons=true&locale=en&theme=dark&bg_color=0d1117&hide_border=true" alt="subaashnair github stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=subaashnair&theme=dark&background=0d1117&hide_border=true" alt="subaashnair streak stats" />
+    </td>
+  </tr>
+</table>
+
+<!-- This section is auto-updated daily -->
+## 📊 Latest Activity
+
+<!--START_SECTION:activity-->
+1. Waiting for activity data...
+<!--END_SECTION:activity-->
 
 
 
