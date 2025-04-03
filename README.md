@@ -134,7 +134,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubaashNair&theme=dark&background=0d1117&hide_border=true" alt="subaashnair streak stats" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=SubaashNair&theme=dark&background=0d1117&hide_border=true" alt="SubaashNair streak stats" />
     </td>
   </tr>
 </table>
