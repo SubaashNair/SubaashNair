@@ -77,8 +77,6 @@
   </tr>
 </table>
 
- Add your Kaggle stats here after setting up GitHub Actions -->
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashanan-nair-52b282129/)
@@ -136,7 +134,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=subaashnair&theme=dark&background=0d1117&hide_border=true" alt="subaashnair streak stats" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=subaashnair&theme=dark&background=0d1117&hide_border=true" alt="subaashnair streak stats" />
     </td>
   </tr>
 </table>
