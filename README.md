@@ -15,15 +15,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://pypi.org/project/outlier-cleaner/">
-        <img src="https://img.shields.io/pypi/v/outlier-cleaner.svg" alt="PyPI version" />
-        <br />
-        <b>outlier-cleaner</b>
-      </a>
-      <br />
-      A Python package for detecting and removing outliers in data using various statistical methods
-    </td>
-    <td align="center">
       <a href="https://pypi.org/project/optimrl/">
         <img src="https://img.shields.io/pypi/v/optimrl.svg" alt="PyPI version" />
         <br />
@@ -32,17 +23,17 @@
       <br />
       Group Relative Policy Optimization for Efficient RL Training
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://pypi.org/project/stats-confidence-intervals/">
-        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
+      <a href="https://pypi.org/project/outlier-cleaner/">
+        <img src="https://img.shields.io/pypi/v/outlier-cleaner.svg" alt="PyPI version" />
         <br />
-        <b>stats-confidence-intervals</b>
+        <b>outlier-cleaner</b>
       </a>
       <br />
-      Statistical confidence intervals calculation package
+      A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://pypi.org/project/smartpredict/">
         <img src="https://img.shields.io/pypi/v/smartpredict.svg" alt="PyPI version" />
@@ -50,7 +41,16 @@
         <b>smartpredict</b>
       </a>
       <br />
-      Intelligent prediction and model management package
+      An advanced machine learning library for model training and selection
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/stats-confidence-intervals/">
+        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
+        <br />
+        <b>stats-confidence-intervals</b>
+      </a>
+      <br />
+      A comprehensive library for calculating and visualizing statistical confidence intervals
     </td>
   </tr>
   <tr>
@@ -61,16 +61,23 @@
         <b>stopwordz</b>
       </a>
       <br />
-      Comprehensive multi-language stopwords collection for NLP
+      A simple stopword cleaner
     </td>
   </tr>
 </table>
 
 ## 🏆 Kaggle Achievements
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
-<!-- Add your Kaggle stats here after setting up GitHub Actions -->
+<table>
+  <tr>
+    <td>Tier</td>
+    <td><b>Unknown</b></td>
+  </tr>
+</table>
+
+ Add your Kaggle stats here after setting up GitHub Actions -->
 
 ## 🔗 Connect with me
 
@@ -138,7 +145,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. Waiting for activity data...
+1. 🚀 Published release [OutlierCleaner v1.0.1](https://github.com/SubaashNair/OutlierCleaner/releases/tag/v1.0.1) in [SubaashNair/OutlierCleaner](https://github.com/SubaashNair/OutlierCleaner)
 <!--END_SECTION:activity-->
 
 
