@@ -10,6 +10,17 @@
 - 💬 Ask me about **Machine Learning, NLP, and Data Science**
 - 📊 Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
 
+## 🏆 Kaggle Achievements
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
+
+<table>
+  <tr>
+    <td>Tier</td>
+    <td><b>Unknown</b></td>
+  </tr>
+</table>
+
 ## 📦 My PyPI Packages
 
 <table>
