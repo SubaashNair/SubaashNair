@@ -87,6 +87,17 @@
   </tr>
 </table>
 
+## 🏆 Kaggle Achievements
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
+
+<table>
+  <tr>
+    <td>Tier</td>
+    <td><b>Unknown</b></td>
+  </tr>
+</table>
+
 ## 📦 My PyPI Packages
 
 <table>
@@ -220,7 +231,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.1.1](https://github.com/SubaashNair/sklearnMetrics/releases/tag/v0.1.1) in [SubaashNair/sklearnMetrics](https://github.com/SubaashNair/sklearnMetrics)
+1. 🚀 Published release [Release v0.1.2](https://github.com/SubaashNair/sklearn_metrics/releases/tag/v0.1.2) in [SubaashNair/sklearn_metrics](https://github.com/SubaashNair/sklearn_metrics)
 <!--END_SECTION:activity-->
 
 
