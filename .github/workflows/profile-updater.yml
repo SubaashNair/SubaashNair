@@ -23,20 +23,13 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 markdownify PyGithub kaggle
+          pip install requests beautifulsoup4 markdownify PyGithub
           
       - name: Fetch PyPI Projects
         run: |
           python .github/scripts/fetch_pypi_projects.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Fetch Kaggle Stats
-        run: |
-          python .github/scripts/fetch_kaggle_stats.py
-        env:
-          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
-          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
           
       - name: Update Recent Activity
         uses: jamesgeorge007/github-activity-readme@master
