@@ -75,6 +75,17 @@
       Extended scikit-learn metrics for enhanced model evaluation and performance analysis
     </td>
     <td align="center">
+      <a href="https://pypi.org/project/sklearn-metrics/">
+        <img src="https://img.shields.io/pypi/v/sklearn-metrics.svg" alt="PyPI version" />
+        <br />
+        <b>sklearn-metrics</b>
+      </a>
+      <br />
+      Additional metrics and scoring functions for scikit-learn models
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <a href="https://pypi.org/project/stopwordz/">
         <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
         <br />
