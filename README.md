@@ -32,7 +32,7 @@
         <b>optimrl</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      Group Relative Policy Optimization for Efficient RL Training
     </td>
     <td align="center">
       <a href="https://pypi.org/project/outlier-cleaner/">
@@ -41,7 +41,7 @@
         <b>outlier-cleaner</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
         <b>smartpredict</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      An advanced machine learning library for model training and selection
     </td>
     <td align="center">
       <a href="https://pypi.org/project/stats-confidence-intervals/">
@@ -61,7 +61,7 @@
         <b>stats-confidence-intervals</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      A comprehensive library for calculating and visualizing statistical confidence intervals
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
         <b>stopwordz</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      A simple stopword cleaner
     </td>
   </tr>
 </table>
