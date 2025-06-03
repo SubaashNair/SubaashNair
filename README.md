@@ -143,7 +143,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.1.2](https://github.com/SubaashNair/sklearn_metrics/releases/tag/v0.1.2) in [SubaashNair/sklearn_metrics](https://github.com/SubaashNair/sklearn_metrics)
+1. ❌ Closed PR [#1](https://github.com/Penang-Institute/keyPenangMetrics/pull/1) in [Penang-Institute/keyPenangMetrics](https://github.com/Penang-Institute/keyPenangMetrics)
 <!--END_SECTION:activity-->
 
 
