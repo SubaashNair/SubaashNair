@@ -32,7 +32,7 @@
         <b>optimrl</b>
       </a>
       <br />
-      Group Relative Policy Optimization for Efficient RL Training
+      Reinforcement learning library with Group Relative Policy Optimization (GRPO) - supports discrete/continuous action spaces with critic-free learning
     </td>
     <td align="center">
       <a href="https://pypi.org/project/outlier-cleaner/">
@@ -41,7 +41,7 @@
         <b>outlier-cleaner</b>
       </a>
       <br />
-      A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
+      Advanced outlier detection and removal using multiple statistical methods with automatic method selection and comprehensive visualization tools
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
         <b>smartpredict</b>
       </a>
       <br />
-      An advanced machine learning library for model training and selection
+      Automated ML library with model training, selection, hyperparameter tuning, feature engineering, and explainability (SHAP integration)
     </td>
     <td align="center">
       <a href="https://pypi.org/project/stats-confidence-intervals/">
@@ -61,18 +61,27 @@
         <b>stats-confidence-intervals</b>
       </a>
       <br />
-      A comprehensive library for calculating and visualizing statistical confidence intervals
+      Calculate and visualize confidence intervals for means/proportions using Wilson score and normal approximation methods
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <a href="https://pypi.org/project/stopwordz/">
         <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
         <br />
         <b>stopwordz</b>
       </a>
       <br />
-      A simple stopword cleaner
+      Efficient text preprocessing library for removing stopwords from text data with pre-defined word lists
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/statclean/">
+        <img src="https://img.shields.io/pypi/v/statclean.svg" alt="PyPI version" />
+        <br />
+        <b>statclean</b>
+      </a>
+      <br />
+      Comprehensive statistical data preprocessing and outlier detection library with formal statistical testing
     </td>
   </tr>
 </table>

@@ -16,6 +16,7 @@ PACKAGES = [
     "optimrl",
     "stats-confidence-intervals",
     "smartpredict",
+    "statclean",
     "stopwordz"
 ]
 
