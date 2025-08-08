@@ -32,7 +32,7 @@
         <b>optimrl</b>
       </a>
       <br />
-      Reinforcement learning library with Group Relative Policy Optimization (GRPO) - supports discrete/continuous action spaces with critic-free learning
+      Group Relative Policy Optimization for Efficient RL Training
     </td>
     <td align="center">
       <a href="https://pypi.org/project/outlier-cleaner/">
@@ -41,7 +41,7 @@
         <b>outlier-cleaner</b>
       </a>
       <br />
-      Advanced outlier detection and removal using multiple statistical methods with automatic method selection and comprehensive visualization tools
+      A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
   </tr>
   <tr>
@@ -52,27 +52,7 @@
         <b>smartpredict</b>
       </a>
       <br />
-      Automated ML library with model training, selection, hyperparameter tuning, feature engineering, and explainability (SHAP integration)
-    </td>
-    <td align="center">
-      <a href="https://pypi.org/project/stats-confidence-intervals/">
-        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
-        <br />
-        <b>stats-confidence-intervals</b>
-      </a>
-      <br />
-      Calculate and visualize confidence intervals for means/proportions using Wilson score and normal approximation methods
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pypi.org/project/stopwordz/">
-        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
-        <br />
-        <b>stopwordz</b>
-      </a>
-      <br />
-      Efficient text preprocessing library for removing stopwords from text data with pre-defined word lists
+      An advanced machine learning library for model training and selection
     </td>
     <td align="center">
       <a href="https://pypi.org/project/statclean/">
@@ -81,7 +61,27 @@
         <b>statclean</b>
       </a>
       <br />
-      Comprehensive statistical data preprocessing and outlier detection library with formal statistical testing
+      A comprehensive statistical data preprocessing and outlier detection library with formal statistical testing and publication-quality reporting
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pypi.org/project/stats-confidence-intervals/">
+        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
+        <br />
+        <b>stats-confidence-intervals</b>
+      </a>
+      <br />
+      A comprehensive library for calculating and visualizing statistical confidence intervals
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/stopwordz/">
+        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
+        <br />
+        <b>stopwordz</b>
+      </a>
+      <br />
+      A simple stopword cleaner
     </td>
   </tr>
 </table>
