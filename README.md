@@ -152,7 +152,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Penang-Institute/keyPenangMetrics/pull/1) in [Penang-Institute/keyPenangMetrics](https://github.com/Penang-Institute/keyPenangMetrics)
+1. 💪 Opened PR [#32595](undefined) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 <!--END_SECTION:activity-->
 
 
