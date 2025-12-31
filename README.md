@@ -152,7 +152,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32595](undefined) in [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+1. ❌ Merged PR [#1](undefined) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
 <!--END_SECTION:activity-->
 
 
