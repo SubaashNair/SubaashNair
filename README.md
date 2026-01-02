@@ -152,7 +152,7 @@
 ## 📊 Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
+1. 🎉 Merged PR [#1](https://github.com/SubaashNair/first-contributions/pull/1) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
 <!--END_SECTION:activity-->
 
 
