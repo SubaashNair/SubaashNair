@@ -12,14 +12,7 @@
 
 ## 🏆 Kaggle Achievements
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
-
-<table>
-  <tr>
-    <td>Tier</td>
-    <td><b>Unknown</b></td>
-  </tr>
-</table>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
 
 ## 📦 My PyPI Packages
 

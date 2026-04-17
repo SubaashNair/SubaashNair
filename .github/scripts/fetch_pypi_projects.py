@@ -25,12 +25,12 @@ def fetch_pypi_package_info(package_name):
     try:
         # Get package info from PyPI API
         url = f"https://pypi.org/pypi/{package_name}/json"
-        response = requests.get(url)
+        response = requests.get(url, timeout=15)
         response.raise_for_status()
         package_data = response.json()
-        
+
         # Get additional information from the PyPI page to extract description
-        pypi_page = requests.get(f"https://pypi.org/project/{package_name}/")
+        pypi_page = requests.get(f"https://pypi.org/project/{package_name}/", timeout=15)
         soup = BeautifulSoup(pypi_page.text, 'html.parser')
         
         # Try to get a short description
