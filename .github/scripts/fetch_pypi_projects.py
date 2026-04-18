@@ -112,16 +112,16 @@ def update_readme(packages_info):
 </table>"""
     
     # Replace the PyPI packages section in the README
-    pypi_section_pattern = r"## 📦 My PyPI Packages\s*<table>[\s\S]*?</table>"
-    new_pypi_section = f"## 📦 My PyPI Packages\n\n{table_html}"
-    
+    pypi_section_pattern = r"## My PyPI Packages\s*<table>[\s\S]*?</table>"
+    new_pypi_section = f"## My PyPI Packages\n\n{table_html}"
+
     if re.search(pypi_section_pattern, readme_content):
         updated_readme = re.sub(pypi_section_pattern, new_pypi_section, readme_content)
     else:
         # If section doesn't exist, try to add it at a logical place
         updated_readme = readme_content.replace(
-            "## 🏆 Kaggle Achievements", 
-            f"{new_pypi_section}\n\n## 🏆 Kaggle Achievements"
+            "## Kaggle Achievements",
+            f"{new_pypi_section}\n\n## Kaggle Achievements"
         )
     
     # Write the updated content back to the README

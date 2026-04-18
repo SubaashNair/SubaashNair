@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Subashanan Nair</h1>
-<h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia </h3>
+<h1 align="center">Hi, I'm Subashanan Nair</h1>
+<h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaashnair&label=Profile%20views&color=0e75b6&style=flat" alt="subaashnair" /> </p>
 
-## 🔭 About Me
+## About Me
 
-- 🔭 I'm currently working on **PyPI Packages for Data Science**
-- 🌱 I'm currently learning **how to multi task like a pro**
-- 💬 Ask me about **Machine Learning, NLP, and Data Science**
-- 📊 Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
+- Currently working on **PyPI Packages for Data Science**
+- Currently learning **how to multi task like a pro**
+- Ask me about **Machine Learning, NLP, and Data Science**
+- Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
 
-## 🏆 Kaggle Achievements
+## Kaggle Achievements
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
 
-## 📦 My PyPI Packages
+## My PyPI Packages
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashanan-nair-52b282129/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/270165707193450506)
@@ -87,43 +87,77 @@
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/noir1112/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFAD00?logo=huggingface&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-F46800?logo=gradio&logoColor=white)
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning &amp; Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy" />
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/-Hugging_Face-FFAD00?logo=huggingface&logoColor=white" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/-Gradio-F46800?logo=gradio&logoColor=white" alt="Gradio" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; App Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Visualization &amp; BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Other Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" />
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
+    </td>
+  </tr>
+</table>
 
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
@@ -142,12 +176,8 @@
 </table>
 
 <!-- This section is auto-updated daily -->
-## 📊 Latest Activity
+## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SubaashNair/first-contributions/pull/1) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
+1. Merged PR [#1](https://github.com/SubaashNair/first-contributions/pull/1) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
 <!--END_SECTION:activity-->
-
-
-
-
