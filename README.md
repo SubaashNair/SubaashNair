@@ -97,7 +97,7 @@
       <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white" alt="Swift" />
-      <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" />
+      <img src="https://img.shields.io/badge/-MATLAB-0076A8?logoColor=white" alt="MATLAB" />
       <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" />
     </td>
   </tr>
@@ -115,6 +115,8 @@
       <img src="https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white" alt="Seaborn" />
       <img src="https://img.shields.io/badge/-Hugging_Face-FFAD00?logo=huggingface&logoColor=white" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/-Gradio-F46800?logo=gradio&logoColor=white" alt="Gradio" />
+      <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
+      <img src="https://img.shields.io/badge/-AutoML-4285F4?logo=googlecloud&logoColor=white" alt="AutoML" />
     </td>
   </tr>
   <tr>
@@ -122,14 +124,19 @@
     <td>
       <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white" alt="Expo" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
     </td>
   </tr>
   <tr>
@@ -153,6 +160,7 @@
       <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" />
       <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
+      <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
     </td>
   </tr>
 </table>
