@@ -179,5 +179,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#1](https://github.com/SubaashNair/first-contributions/pull/1) in [SubaashNair/first-contributions](https://github.com/SubaashNair/first-contributions)
+1. ❗ Opened issue [#7](https://github.com/crynta/terax-ai/issues/7) in [crynta/terax-ai](https://github.com/crynta/terax-ai)
 <!--END_SECTION:activity-->
