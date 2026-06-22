@@ -187,5 +187,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/crynta/terax-ai/issues/7) in [crynta/terax-ai](https://github.com/crynta/terax-ai)
+1. 🎉 Merged PR [#1](https://github.com/Penang-Institute/tableau-pipeline/pull/1) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
 <!--END_SECTION:activity-->
