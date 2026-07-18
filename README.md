@@ -187,5 +187,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Penang-Institute/tableau-pipeline/pull/10) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
+1. 💪 Opened PR [#68906](https://github.com/freeCodeCamp/freeCodeCamp/pull/68906) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 <!--END_SECTION:activity-->
