@@ -187,5 +187,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Penang-Institute/tableau-pipeline/pull/11) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
+1. 💪 Opened PR [#12](https://github.com/Penang-Institute/tableau-pipeline/pull/12) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
 <!--END_SECTION:activity-->
