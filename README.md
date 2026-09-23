@@ -25,7 +25,7 @@
         <b>optimrl</b>
       </a>
       <br />
-      Python package by Subashanan Nair
+      Group Relative Policy Optimization for Efficient RL Training
     </td>
     <td align="center">
       <a href="https://pypi.org/project/outlier-cleaner/">
