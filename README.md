@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Subashanan Nair</h1>
-<h3 align="center">A passionate Educator and Data Science practitioner from Penang, Malaysia</h3>
+<h3 align="center">A passionate Educator, Data Science and LLM practitioner from Penang, Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaashnair&label=Profile%20views&color=0e75b6&style=flat" alt="subaashnair" /> </p>
 
 ## About Me
 
-- Currently working on **PyPI Packages for Data Science**
-- Currently learning **how to multi task like a pro**
-- Ask me about **Machine Learning, NLP, and Data Science**
+- Currently working on **PyPI Packages for Data Science**, including **[optimrl](https://pypi.org/project/optimrl/)** for GRPO based RL training of language models
+- Currently learning **how to train LLMs from scratch with open source stacks**: tokenizer training, pretraining, supervised fine-tuning, and RL
+- Exploring **fine-tuning open source models** (LoRA, QLoRA, TRL) and **LLM evaluation, inference, and serving**
+- Interested in **AI agents**, tool use, and retrieval augmented generation
+- Currently learning **efficient training of small open source language models on consumer hardware** using **Unsloth, Axolotl, and MLX**, with **GGUF quantization and llama.cpp** for local inference
+- Ask me about **Machine Learning, NLP, LLMs, and Data Science**
 - Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
-
-## Kaggle Achievements
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
 
 ## My PyPI Packages
 
@@ -37,52 +36,11 @@
       A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pypi.org/project/smartpredict/">
-        <img src="https://img.shields.io/pypi/v/smartpredict.svg" alt="PyPI version" />
-        <br />
-        <b>smartpredict</b>
-      </a>
-      <br />
-      An advanced machine learning library for model training and selection
-    </td>
-    <td align="center">
-      <a href="https://pypi.org/project/statclean/">
-        <img src="https://img.shields.io/pypi/v/statclean.svg" alt="PyPI version" />
-        <br />
-        <b>statclean</b>
-      </a>
-      <br />
-      A comprehensive statistical data preprocessing and outlier detection library with formal statistical testing and publication-quality reporting
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pypi.org/project/stats-confidence-intervals/">
-        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
-        <br />
-        <b>stats-confidence-intervals</b>
-      </a>
-      <br />
-      A comprehensive library for calculating and visualizing statistical confidence intervals
-    </td>
-    <td align="center">
-      <a href="https://pypi.org/project/stopwordz/">
-        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
-        <br />
-        <b>stopwordz</b>
-      </a>
-      <br />
-      A simple stopword cleaner
-    </td>
-  </tr>
 </table>
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashanan-nair-52b282129/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/270165707193450506)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/noir1112)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/noir1112/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/noir1112)
@@ -94,6 +52,7 @@
     <td><b>Programming Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white" alt="Swift" />
@@ -117,6 +76,18 @@
       <img src="https://img.shields.io/badge/-Gradio-F46800?logo=gradio&logoColor=white" alt="Gradio" />
       <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
       <img src="https://img.shields.io/badge/-AutoML-4285F4?logo=googlecloud&logoColor=white" alt="AutoML" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLM &amp; AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Transformers-FFAD00?logo=huggingface&logoColor=white" alt="Transformers" />
+      <img src="https://img.shields.io/badge/-TRL-FFD21E?logo=huggingface&logoColor=black" alt="TRL" />
+      <img src="https://img.shields.io/badge/-PEFT_(LoRA)-FFAD00?logo=huggingface&logoColor=white" alt="PEFT" />
+      <img src="https://img.shields.io/badge/-Unsloth-1F8A70" alt="Unsloth" />
+      <img src="https://img.shields.io/badge/-Axolotl-6E40C9" alt="Axolotl" />
+      <img src="https://img.shields.io/badge/-MLX-000000?logo=apple&logoColor=white" alt="MLX" />
+      <img src="https://img.shields.io/badge/-llama.cpp-4B5563" alt="llama.cpp" />
     </td>
   </tr>
   <tr>
