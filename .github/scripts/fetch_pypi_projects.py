@@ -13,11 +13,7 @@ from bs4 import BeautifulSoup
 # List of PyPI packages to include
 PACKAGES = [
     "outlier-cleaner",
-    "optimrl",
-    "stats-confidence-intervals",
-    "smartpredict",
-    "statclean",
-    "stopwordz"
+    "optimrl"
 ]
 
 def fetch_pypi_package_info(package_name):

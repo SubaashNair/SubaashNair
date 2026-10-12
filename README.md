@@ -7,9 +7,9 @@
 
 - Currently working on **PyPI Packages for Data Science**, including **[optimrl](https://pypi.org/project/optimrl/)** for GRPO based RL training of language models
 - Currently learning **how to train LLMs from scratch with open source stacks**: tokenizer training, pretraining, supervised fine-tuning, and RL
-- Exploring **fine-tuning open source models** (LoRA, QLoRA, TRL) and **LLM evaluation, inference, and serving**
+- Exploring **fine-tuning open source models** (LoRA, QLoRA, TRL) and **LLM evaluation, inference, and serving**, with experiment tracking on **MLflow**
 - Interested in **AI agents**, tool use, and retrieval augmented generation
-- Currently learning **efficient training of small open source language models on consumer hardware** using **Unsloth, Axolotl, and MLX**, with **GGUF quantization and llama.cpp** for local inference
+- Currently learning **efficient training of small open source language models on consumer hardware** using **Unsloth, Axolotl, and MLX**, with **GGUF quantization, llama.cpp, Ollama, and LM Studio** for local inference
 - Ask me about **Machine Learning, NLP, LLMs, and Data Science**
 - Check out my **[Kaggle Profile](https://www.kaggle.com/noir1112)** for competitions and notebooks
 
@@ -88,6 +88,8 @@
       <img src="https://img.shields.io/badge/-Axolotl-6E40C9" alt="Axolotl" />
       <img src="https://img.shields.io/badge/-MLX-000000?logo=apple&logoColor=white" alt="MLX" />
       <img src="https://img.shields.io/badge/-llama.cpp-4B5563" alt="llama.cpp" />
+      <img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white" alt="Ollama" />
+      <img src="https://img.shields.io/badge/-LM_Studio-5B3DF5" alt="LM Studio" />
     </td>
   </tr>
   <tr>
@@ -114,6 +116,7 @@
     <td><b>Cloud &amp; DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" />
       <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
