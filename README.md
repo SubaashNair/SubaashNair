@@ -36,6 +36,46 @@
       A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pypi.org/project/smartpredict/">
+        <img src="https://img.shields.io/pypi/v/smartpredict.svg" alt="PyPI version" />
+        <br />
+        <b>smartpredict</b>
+      </a>
+      <br />
+      An advanced machine learning library for model training and selection
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/statclean/">
+        <img src="https://img.shields.io/pypi/v/statclean.svg" alt="PyPI version" />
+        <br />
+        <b>statclean</b>
+      </a>
+      <br />
+      A comprehensive statistical data preprocessing and outlier detection library with formal statistical testing and publication-quality reporting
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pypi.org/project/stats-confidence-intervals/">
+        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
+        <br />
+        <b>stats-confidence-intervals</b>
+      </a>
+      <br />
+      A comprehensive library for calculating and visualizing statistical confidence intervals
+    </td>
+    <td align="center">
+      <a href="https://pypi.org/project/stopwordz/">
+        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
+        <br />
+        <b>stopwordz</b>
+      </a>
+      <br />
+      A simple stopword cleaner
+    </td>
+  </tr>
 </table>
 
 ## Connect with me
@@ -158,5 +198,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68906](https://github.com/freeCodeCamp/freeCodeCamp/pull/68906#issuecomment-5981313422) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+1. 🎉 Merged PR [#14](https://github.com/Penang-Institute/tableau-pipeline/pull/14) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
 <!--END_SECTION:activity-->
