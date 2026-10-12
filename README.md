@@ -36,46 +36,6 @@
       A Python package for detecting and removing outliers in data using various statistical methods and advanced distribution analysis
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pypi.org/project/smartpredict/">
-        <img src="https://img.shields.io/pypi/v/smartpredict.svg" alt="PyPI version" />
-        <br />
-        <b>smartpredict</b>
-      </a>
-      <br />
-      An advanced machine learning library for model training and selection
-    </td>
-    <td align="center">
-      <a href="https://pypi.org/project/statclean/">
-        <img src="https://img.shields.io/pypi/v/statclean.svg" alt="PyPI version" />
-        <br />
-        <b>statclean</b>
-      </a>
-      <br />
-      A comprehensive statistical data preprocessing and outlier detection library with formal statistical testing and publication-quality reporting
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pypi.org/project/stats-confidence-intervals/">
-        <img src="https://img.shields.io/pypi/v/stats-confidence-intervals.svg" alt="PyPI version" />
-        <br />
-        <b>stats-confidence-intervals</b>
-      </a>
-      <br />
-      A comprehensive library for calculating and visualizing statistical confidence intervals
-    </td>
-    <td align="center">
-      <a href="https://pypi.org/project/stopwordz/">
-        <img src="https://img.shields.io/pypi/v/stopwordz.svg" alt="PyPI version" />
-        <br />
-        <b>stopwordz</b>
-      </a>
-      <br />
-      A simple stopword cleaner
-    </td>
-  </tr>
 </table>
 
 ## Connect with me
