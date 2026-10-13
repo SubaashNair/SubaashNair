@@ -161,5 +161,5 @@
 ## Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Penang-Institute/tableau-pipeline/pull/14) in [Penang-Institute/tableau-pipeline](https://github.com/Penang-Institute/tableau-pipeline)
+1. 🎉 Merged PR [#6](https://github.com/SubaashNair/subashanan-nair-portfolio/pull/6) in [SubaashNair/subashanan-nair-portfolio](https://github.com/SubaashNair/subashanan-nair-portfolio)
 <!--END_SECTION:activity-->
